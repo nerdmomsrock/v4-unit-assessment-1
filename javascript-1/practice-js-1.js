@@ -263,3 +263,16 @@ for ( var i = 0; i < arr.length; i++){
 */
 
 //CODE HERE
+/* function carFactory (make, model, year) {
+  let car = {
+    make : " Honda"
+    model : "Pilot ",
+    year : 2019
+
+if (year > 2018) {
+ car.isNew = true;
+} else {
+   car.isNew = false;
+}
+}
+}; */
